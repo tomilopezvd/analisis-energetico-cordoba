@@ -1,0 +1,48 @@
+# ⚡ Análisis del consumo energético en Córdoba
+
+Proyecto de análisis de datos y predicción del consumo energético utilizando Python.
+
+---
+
+## 📊 Objetivo
+
+Analizar la evolución del consumo eléctrico en Argentina y aplicar una proyección al contexto de Córdoba, estimando tendencias futuras y participación de energías renovables.
+
+---
+
+## 📈 Qué incluye
+
+* Análisis histórico del consumo energético
+* Visualización de tendencias
+* Modelo de regresión lineal para predicción
+* Proyección del consumo en Córdoba
+* Gráfico de distribución energética (renovable vs total)
+
+---
+
+## 🧠 Tecnologías utilizadas
+
+* Python
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+---
+
+## 📁 Archivos del proyecto
+
+* `energy_analysis.ipynb` → Notebook principal
+* `energy_analysis.html` → Versión visual del análisis
+* `owid-energy-data.csv` → Dataset base
+
+---
+
+## 🚀 Cómo verlo
+
+Podés abrir el archivo HTML directamente desde GitHub para ver el análisis completo con gráficos.
+
+---
+
+## 📌 Autor
+
+Tomás Agustín López
